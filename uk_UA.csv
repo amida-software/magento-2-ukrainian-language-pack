@@ -15317,3 +15317,4 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Please enter a date from the past.","Будь ласка, введіть дати з минулого.",lib,web
 "custom.definition","custom.definition",lib,web
 "component.behaviours","component.behaviours",lib,web
+"Search","Пошук",module,Mageplaza_Shopbybrand
