@@ -11772,7 +11772,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Move to Order Management","Move to Order Management",module,Magento_SalesArchive
 "We have archived the order.","We have archived the order.",module,Magento_SalesArchive
 "Please specify the order ID to be archived.","Please specify the order ID to be archived.",module,Magento_SalesArchive
-"Credit Memos","Кредитові записки",module,Magento_SalesArchive
+"Credit Memos","Кредитові авізо",module,Magento_SalesArchive
 "Invoices","Рахунки",module,Magento_SalesArchive
 "We archived %1 order(s).","We archived %1 order(s).",module,Magento_SalesArchive
 "We can't archive the selected order(s).","We can't archive the selected order(s).",module,Magento_SalesArchive
@@ -11780,7 +11780,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Orders","Замовлення",module,Magento_SalesArchive
 "We have removed the order from the archive.","We have removed the order from the archive.",module,Magento_SalesArchive
 "Please specify the order ID to be removed from archive.","Please specify the order ID to be removed from archive.",module,Magento_SalesArchive
-"Shipments","Методи доставки",module,Magento_SalesArchive
+"Shipments","Відправки",module,Magento_SalesArchive
 "There are %1 orders in this archive. All of them will be moved to the regular table after the archive is disabled.","There are %1 orders in this archive. All of them will be moved to the regular table after the archive is disabled.",module,Magento_SalesArchive
 "Archive","Archive",module,Magento_SalesArchive
 "Restore from Archive","Restore from Archive",module,Magento_SalesArchive
@@ -12595,7 +12595,7 @@ configuring in shared catalogs will not be restricted to customers.",module,Mage
 "Cannot add new comment.","Cannot add new comment.",module,Magento_Shipping
 "Please specify a carrier.","Please specify a carrier.",module,Magento_Shipping
 "Please enter a tracking number.","Please enter a tracking number.",module,Magento_Shipping
-"Shipments","Методи доставки",module,Magento_Shipping
+"Shipments","Відправки",module,Magento_Shipping
 "We can't initialize shipment for adding tracking number.","We can't initialize shipment for adding tracking number.",module,Magento_Shipping
 "Cannot add tracking number.","Cannot add tracking number.",module,Magento_Shipping
 "You created the shipping label.","You created the shipping label.",module,Magento_Shipping
