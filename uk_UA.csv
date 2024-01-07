@@ -198,7 +198,7 @@ Please select a website for this product in ""Product in Websites"".",module,Mag
 "View and modify Shopping Cart","Переглянути та змінити кошик покупок",module,Magento_AdvancedCheckout
 "Order by SKU Settings","Налаштування замовлень за артикулом",module,Magento_AdvancedCheckout
 "Enable Order by SKU on My Account in Storefront","Увімкнути замовлення за артикулом у Мій обліковий запис на Вітрині",module,Magento_AdvancedCheckout
-"Customer Groups","Групи Покупців",module,Magento_AdvancedCheckout
+"Customer Groups","Групи покупців",module,Magento_AdvancedCheckout
 "Apply Coupon","Застосувати купон",module,Magento_AdvancedCheckout
 "Order by SKU Description","Опис замовлення за артикулом",module,Magento_AdvancedCheckout
 "Display a Link to Loading a Spreadsheet","Показувати посилання на завантаження таблиці",module,Magento_AdvancedCheckout
@@ -272,8 +272,8 @@ Please select a website for this product in ""Product in Websites"".",module,Mag
 "Analytics","Аналітика",module,Magento_Analytics
 "API","API",module,Magento_Analytics
 "Configuration","Налаштування",module,Magento_Analytics
-"Business Intelligence","Business Intelligence",module,Magento_Analytics
-"BI Essentials","BI Essentials",module,Magento_Analytics
+"Business Intelligence","Бізнес-аналітика",module,Magento_Analytics
+"BI Essentials","Основи BI,module,Magento_Analytics
 "This service provides a dynamic suite of reports with rich insights about your business.,module,Magento_Analytics
 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the,module,Magento_Analytics
 ""Go to Advanced Reporting"" link. </br> For more information, see our <a target=""_blank"" href=""https://magento.com/legal/terms/cloud-terms"">,module,Magento_Analytics
@@ -338,8 +338,8 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Something went wrong.","Щось пішло не так.",module,Magento_AsynchronousOperations
 "Action Log","Action Log",module,Magento_AsynchronousOperations
 "Report","Report",module,Magento_AsynchronousOperations
-"Bulk Actions","Bulk Actions",module,Magento_AsynchronousOperations
-"Action Logs","Action Logs",module,Magento_AsynchronousOperations
+"Bulk Actions","Масові дії",module,Magento_AsynchronousOperations
+"Action Logs","Журнали дій",module,Magento_AsynchronousOperations
 "Days Saved in Log","Days Saved in Log",module,Magento_AsynchronousOperations
 "Description of Operation","Description of Operation",module,Magento_AsynchronousOperations
 "Summary","Підсумок",module,Magento_AsynchronousOperations
@@ -1397,7 +1397,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Edit My Credit Cards","Редагувати Мої Кредитні Картки",module,Magento_Braintree
 "Pay with PayPal","Pay with PayPal",module,Magento_Braintree
 "Transaction is cancelled offline.","Transaction is cancelled offline.",module,Magento_Braintree
-"Braintree Settlement","Braintree Settlement",module,Magento_Braintree
+"Braintree Settlement","Розрахунок Braintree",module,Magento_Braintree
 "If you don't specify the merchant account to use to process a transaction, Braintree will process it using your default merchant account.","If you don't specify the merchant account to use to process a transaction, Braintree will process it using your default merchant account.",module,Magento_Braintree
 "Be sure to Enable Advanced Fraud Protection in Your Braintree Account in Settings/Processing Section","Be sure to Enable Advanced Fraud Protection in Your Braintree Account in Settings/Processing Section",module,Magento_Braintree
 "Used for direct fraud tool integration. Make sure you also contact <a href=""mailto:accounts@braintreepayments.com"">accounts@braintreepayments.com</a> to setup your Kount account.","Used for direct fraud tool integration. Make sure you also contact <a href=""mailto:accounts@braintreepayments.com"">accounts@braintreepayments.com</a> to setup your Kount account.",module,Magento_Braintree
@@ -3627,8 +3627,8 @@ See Magento documentation for more information,module,Magento_CmsStaging
 "Company Name","Company Name",module,Magento_Company
 "Customer Type:","Customer Type:",module,Magento_Company
 "Company:","Company:",module,Magento_Company
-"User Role","User Role",module,Magento_Company
-"User Roles","User Roles",module,Magento_Company
+"User Role","Роль користувача",module,Magento_Company
+"User Roles","Ролі користувачів",module,Magento_Company
 "Company Information","Company Information",module,Magento_Company
 "Company Legal Name","Company Legal Name",module,Magento_Company
 "Company Email","Company Email",module,Magento_Company
@@ -4402,12 +4402,12 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Manage Currency Rates","Manage Currency Rates",module,Magento_CurrencySymbol
 "Import Service","Import Service",module,Magento_CurrencySymbol
 "Save Currency Symbols","Save Currency Symbols",module,Magento_CurrencySymbol
-"Currency Symbols","Currency Symbols",module,Magento_CurrencySymbol
+"Currency Symbols","Символи валют",module,Magento_CurrencySymbol
 "Use Standard","Use Standard",module,Magento_CurrencySymbol
 "The Import Service is incorrect. Verify the service and try again.","The Import Service is incorrect. Verify the service and try again.",module,Magento_CurrencySymbol
 "The import model can't be initialized. Verify the model and try again.","The import model can't be initialized. Verify the model and try again.",module,Magento_CurrencySymbol
 "Click ""Save"" to apply the rates we found.","Click ""Save"" to apply the rates we found.",module,Magento_CurrencySymbol
-"Currency Rates","Currency Rates",module,Magento_CurrencySymbol
+"Currency Rates","Курси валют",module,Magento_CurrencySymbol
 "Please correct the input data for ""%1 => %2"" rate.","Please correct the input data for ""%1 => %2"" rate.",module,Magento_CurrencySymbol
 "All valid rates have been saved.","All valid rates have been saved.",module,Magento_CurrencySymbol
 "System","Система",module,Magento_CurrencySymbol
@@ -7027,8 +7027,8 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "%1 is not a valid file","%1 is not a valid file",module,Magento_ImportExport
 "Import/Export","Import/Export",module,Magento_ImportExport
 "History","History",module,Magento_ImportExport
-"Import History","Import History",module,Magento_ImportExport
-"Import history","Import history",module,Magento_ImportExport
+"Import History","Історія імпорту",module,Magento_ImportExport
+"Import history","Історія імпорту",module,Magento_ImportExport
 "Incorrect entity name.","Incorrect entity name.",module,Magento_ImportExport
 "There is no sample file for this entity.","There is no sample file for this entity.",module,Magento_ImportExport
 "Status","Статус",module,Magento_ImportExport
@@ -7139,7 +7139,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "has been rebuilt successfully in %time","has been rebuilt successfully in %time",module,Magento_Indexer
 "exception: %message","exception: %message",module,Magento_Indexer
 "%1 index is locked by another reindex process. Skipping.","%1 index is locked by another reindex process. Skipping.",module,Magento_Indexer
-"Index Management","Index Management",module,Magento_Indexer
+"Index Management","Керування індексами",module,Magento_Indexer
 "Please select indexers.","Please select indexers.",module,Magento_Indexer
 "%1 indexer(s) are in ""Update by Schedule"" mode.","%1 indexer(s) are in ""Update by Schedule"" mode.",module,Magento_Indexer
 "We couldn't change indexer(s)' mode because of an error.","We couldn't change indexer(s)' mode because of an error.",module,Magento_Indexer
@@ -7291,7 +7291,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Done","Готово",module,Magento_Integration
 "System Extensions","System Extensions",module,Magento_Integration
 "System Integrations","System Integrations",module,Magento_Integration
-"Extensions","Extensions",module,Magento_Integration
+"Extensions","Розширення",module,Magento_Integration
 "OAuth","OAuth",module,Magento_Integration
 "Access Token Expiration","Access Token Expiration",module,Magento_Integration
 "Customer Token Lifetime (hours)","Customer Token Lifetime (hours)",module,Magento_Integration
@@ -7504,7 +7504,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "No changes","No changes",module,Magento_Logging
 "The item was deleted","The item was deleted",module,Magento_Logging
 "N/A","Н/Д",module,Magento_Logging
-"All Users","All Users",module,Magento_Logging
+"All Users","Усі користувачі",module,Magento_Logging
 "Admin Actions Log","Admin Actions Log",module,Magento_Logging
 "Admin Actions Archive","Admin Actions Archive",module,Magento_Logging
 "Report","Report",module,Magento_Logging
@@ -7535,8 +7535,8 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "Logging","Logging",module,Magento_Logging
 "Action Log","Action Log",module,Magento_Logging
 "Archive","Archive",module,Magento_Logging
-"Action Logs","Action Logs",module,Magento_Logging
-"Bulk Actions","Bulk Actions",module,Magento_Logging
+"Action Logs","Журнали дій",module,Magento_Logging
+"Bulk Actions","Масові дії",module,Magento_Logging
 "Admin Actions Log Archiving","Admin Actions Log Archiving",module,Magento_Logging
 "Log Entry Lifetime, Days","Log Entry Lifetime, Days",module,Magento_Logging
 "Log Archiving Frequency","Log Archiving Frequency",module,Magento_Logging
@@ -7572,7 +7572,7 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "Create","Створити",module,Magento_Logging
 "Catalog Products","Catalog Products",module,Magento_Logging
 "Catalog Categories","Категорії каталогу",module,Magento_Logging
-"URL Rewrites","URL Rewrites",module,Magento_Logging
+"URL Rewrites","Перезапис URL-адрес",module,Magento_Logging
 "Catalog Search","Пошук в каталозі",module,Magento_Logging
 "Catalog Ratings","Catalog Ratings",module,Magento_Logging
 "Catalog Reviews","Catalog Reviews",module,Magento_Logging
@@ -7586,11 +7586,11 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "Reports","Звіти",module,Magento_Logging
 "System Configuration","System Configuration",module,Magento_Logging
 "Catalog Price Rules","Правила цін каталога",module,Magento_Logging
-"Cart Price Rules","Cart Price Rules",module,Magento_Logging
+"Cart Price Rules","Правила ціноутворення в кошику",module,Magento_Logging
 "Admin My Account","Admin My Account",module,Magento_Logging
-"Newsletter Queue","Newsletter Queue",module,Magento_Logging
-"Newsletter Templates","Newsletter Templates",module,Magento_Logging
-"Newsletter Subscribers","Newsletter Subscribers",module,Magento_Logging
+"Newsletter Queue","Черга на розсилку",module,Magento_Logging
+"Newsletter Templates","Шаблони розсилок",module,Magento_Logging
+"Newsletter Subscribers","Підписники на розсилку",module,Magento_Logging
 "Sales Orders","Замовлення",module,Magento_Logging
 "Sales Order Status","Sales Order Status",module,Magento_Logging
 "Sales Invoices","Sales Invoices",module,Magento_Logging
@@ -7605,17 +7605,17 @@ it will make no affect on Price filter.",module,Magento_LayeredNavigation
 "Manage Design","Керувати дизайном",module,Magento_Logging
 "Manage Currency Rates","Manage Currency Rates",module,Magento_Logging
 "Transactional Emails","Transactional Emails",module,Magento_Logging
-"Custom Variables","Custom Variables",module,Magento_Logging
+"Custom Variables","Користувальницькі змінні",module,Magento_Logging
 "System Backups","System Backups",module,Magento_Logging
 "Customer Tax Classes","Customer Tax Classes",module,Magento_Logging
 "Catalog Product Tax Classes","Catalog Product Tax Classes",module,Magento_Logging
-"Tax Rules","Tax Rules",module,Magento_Logging
+"Tax Rules","Правила оподаткування",module,Magento_Logging
 "Tax Rates","Tax Rates",module,Magento_Logging
 "XML Sitemap","XML Sitemap",module,Magento_Logging
 "Widget","Widget",module,Magento_Logging
 "Cache Management","Управління Кешем",module,Magento_Logging
 "PayPal Settlement Reports","PayPal Settlement Reports",module,Magento_Logging
-"Index Management","Index Management",module,Magento_Logging
+"Index Management","Керування індексами",module,Magento_Logging
 "Design Configuration","Design Configuration",module,Magento_Logging
 "Archive File","Archive File",module,Magento_Logging
 "Date","Дата",module,Magento_Logging
@@ -8454,7 +8454,7 @@ information on installing the agent is available <a target=""_blank"" href=""%1"
 "Resume","Відновити",module,Magento_Newsletter
 "Preview","Перегляд",module,Magento_Newsletter
 "Add New Template","Додати новий шаблон",module,Magento_Newsletter
-"Newsletter Templates","Newsletter Templates",module,Magento_Newsletter
+"Newsletter Templates","Шаблони розсилок",module,Magento_Newsletter
 "Convert to Plain Text","Перетворити на звичайний текст",module,Magento_Newsletter
 "Return HTML Version","Повернути HTML-версію",module,Magento_Newsletter
 "Delete Template","Видалити шаблон",module,Magento_Newsletter
@@ -8478,13 +8478,13 @@ information on installing the agent is available <a target=""_blank"" href=""%1"
 "Queue Newsletter","Queue Newsletter",module,Magento_Newsletter
 "We unsubscribed the people you identified.","We unsubscribed the people you identified.",module,Magento_Newsletter
 "The problems you identified have been deleted.","The problems you identified have been deleted.",module,Magento_Newsletter
-"Newsletter Problems Report","Newsletter Problems Report",module,Magento_Newsletter
-"Newsletter Problem Reports","Newsletter Problem Reports",module,Magento_Newsletter
-"Newsletter Queue","Newsletter Queue",module,Magento_Newsletter
+"Newsletter Problems Report","Звіт про проблеми з розсилкою",module,Magento_Newsletter
+"Newsletter Problem Reports","Звіти про проблеми з розсилкою",module,Magento_Newsletter
+"Newsletter Queue","Черга на розсилку",module,Magento_Newsletter
 "Edit Queue","Edit Queue",module,Magento_Newsletter
 "Please correct the newsletter template and try again.","Please correct the newsletter template and try again.",module,Magento_Newsletter
-"You saved the newsletter queue.","You saved the newsletter queue.",module,Magento_Newsletter
-"Newsletter Subscribers","Newsletter Subscribers",module,Magento_Newsletter
+"You saved the newsletter queue.","Ви зберегли чергу розсилки.",module,Magento_Newsletter
+"Newsletter Subscribers","Підписники на розсилку",module,Magento_Newsletter
 "Newsletter","Розсилка новин",module,Magento_Newsletter
 "Subscribers","Підписники",module,Magento_Newsletter
 "Please select one or more subscribers.","Please select one or more subscribers.",module,Magento_Newsletter
@@ -9203,7 +9203,7 @@ If field is empty default value localhost will be saved.",module,Magento_PageCac
 "Sorry, something went wrong.","Sorry, something went wrong.",module,Magento_Paypal
 "Sorry, something went wrong. Please try again later.","Sorry, something went wrong. Please try again later.",module,Magento_Paypal
 "PayPal Section","PayPal Section",module,Magento_Paypal
-"PayPal Settlement","PayPal Settlement",module,Magento_Paypal
+"PayPal Settlement","Розрахунок PayPal",module,Magento_Paypal
 "Fetch","Fetch",module,Magento_Paypal
 "Actions","Дії",module,Magento_Paypal
 "Manage","Manage",module,Magento_Paypal
@@ -9759,7 +9759,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Repeat Schedule","Repeat Schedule",module,Magento_Reminder
 "Enter the number of days until the email reminder rule is retriggered if conditions still match (Ex: Enter ""7, 14"" to trigger emails in 7 days, and then 14 days after that).","Enter the number of days until the email reminder rule is retriggered if conditions still match (Ex: Enter ""7, 14"" to trigger emails in 7 days, and then 14 days after that).",module,Magento_Reminder
 "Select Rule...","Select Rule...",module,Magento_Reminder
-"Email Templates","Email Templates",module,Magento_Reminder
+"Email Templates","Шаблони листів",module,Magento_Reminder
 "Only customers who have an account for a store view will receive emails related to that store view.","Only customers who have an account for a store view will receive emails related to that store view.",module,Magento_Reminder
 "Default Titles and Description","Default Titles and Description",module,Magento_Reminder
 "You can find and edit rule label and descriptions, per store view, in email templates.","You can find and edit rule label and descriptions, per store view, in email templates.",module,Magento_Reminder
@@ -9895,7 +9895,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "CSV","CSV",module,Magento_Reports
 "Excel XML","Excel XML",module,Magento_Reports
 "Unlimited","Unlimited",module,Magento_Reports
-"Low stock","Low stock",module,Magento_Reports
+"Low stock","Низький запас",module,Magento_Reports
 "Products Ordered","Products Ordered",module,Magento_Reports
 "Most Viewed","Most Viewed",module,Magento_Reports
 "Show Report","Show Report",module,Magento_Reports
@@ -9903,7 +9903,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Total","Загалом",module,Magento_Reports
 "Price","Ціна",module,Magento_Reports
 "Views","Перегляди",module,Magento_Reports
-"Refresh Statistics","Refresh Statistics",module,Magento_Reports
+"Refresh Statistics","Оновити статистику",module,Magento_Reports
 "Customers Reviews","Customers Reviews",module,Magento_Reports
 "Reviews for %1","Reviews for %1",module,Magento_Reports
 "Customer","Покупець",module,Magento_Reports
@@ -9953,7 +9953,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Order Taxes Report Grouped by Tax Rate","Order Taxes Report Grouped by Tax Rate",module,Magento_Reports
 "Rate","Ставка",module,Magento_Reports
 "Tax Amount","Tax Amount",module,Magento_Reports
-"Abandoned carts","Abandoned carts",module,Magento_Reports
+"Abandoned carts","Покинуті кошики",module,Magento_Reports
 "Email","Електронна пошта",module,Magento_Reports
 "Products","Товари",module,Magento_Reports
 "Quantity","Кількість",module,Magento_Reports
@@ -9981,7 +9981,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Order Count Report","Order Count Report",module,Magento_Reports
 "Order Total Report","Order Total Report",module,Magento_Reports
 "Downloads Report","Downloads Report",module,Magento_Reports
-"Low Stock","Low Stock",module,Magento_Reports
+"Low Stock","Низький запас",module,Magento_Reports
 "Low Stock Report","Low Stock Report",module,Magento_Reports
 "Ordered Products Report","Ordered Products Report",module,Magento_Reports
 "Products Most Viewed Report","Products Most Viewed Report",module,Magento_Reports
@@ -9996,7 +9996,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Details","Подробиці",module,Magento_Reports
 "Sales","Продажі",module,Magento_Reports
 "Bestsellers Report","Bestsellers Report",module,Magento_Reports
-"Coupons","Coupons",module,Magento_Reports
+"Coupons","Купони",module,Magento_Reports
 "Coupons Report","Coupons Report",module,Magento_Reports
 "Invoice Report","Invoice Report",module,Magento_Reports
 "Refunds Report","Refunds Report",module,Magento_Reports
@@ -10005,7 +10005,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Shipping Report","Shipping Report",module,Magento_Reports
 "Tax Report","Tax Report",module,Magento_Reports
 "Shopping Cart","Кошик",module,Magento_Reports
-"Abandoned Carts","Abandoned Carts",module,Magento_Reports
+"Abandoned Carts","Покинуті кошики",module,Magento_Reports
 "Customer Shopping Carts","Customer Shopping Carts",module,Magento_Reports
 "Products in Carts","Products in Carts",module,Magento_Reports
 "Statistics","Statistics",module,Magento_Reports
@@ -10045,11 +10045,11 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Products in Cart","Товари в кошику",module,Magento_Reports
 "Abandoned Cart","Abandoned Cart",module,Magento_Reports
 "Search Terms","Пошукові фрази",module,Magento_Reports
-"By Customers","By Customers",module,Magento_Reports
-"By Products","By Products",module,Magento_Reports
-"Refunds","Refunds",module,Magento_Reports
+"By Customers","Від клієнтів",module,Magento_Reports
+"By Products","По товарам",module,Magento_Reports
+"Refunds","Повернення коштів",module,Magento_Reports
 "Order Total","Вартість замовлення",module,Magento_Reports
-"Order Count","Order Count",module,Magento_Reports
+"Order Count","Кількість замовлень",module,Magento_Reports
 "New","Новий",module,Magento_Reports
 "Ordered","Замовлено",module,Magento_Reports
 "Recently Viewed/Compared Products","Recently Viewed/Compared Products",module,Magento_Reports
@@ -10150,7 +10150,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "<a href=""%1"" target=""_blank""><span>%2</span></a>","<a href=""%1"" target=""_blank""><span>%2</span></a>",module,Magento_RequisitionList
 "All the items in your Shopping Cart have been added to the ""%1"" requisition list.","All the items in your Shopping Cart have been added to the ""%1"" requisition list.",module,Magento_RequisitionList
 "Create New Requisition List","Create New Requisition List",module,Magento_RequisitionList
-"Export","Export",module,Magento_RequisitionList
+"Export","Експорт",module,Magento_RequisitionList
 "Print","Друк",module,Magento_RequisitionList
 "Rename","Перейменувати",module,Magento_RequisitionList
 "Rename Requisition List","Rename Requisition List",module,Magento_RequisitionList
@@ -10248,7 +10248,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Update Status","Update Status",module,Magento_Review
 "Customer","Покупець",module,Magento_Review
 "Pending Reviews of Customer `%1`","Pending Reviews of Customer `%1`",module,Magento_Review
-"Pending Reviews","Pending Reviews",module,Magento_Review
+"Pending Reviews","Очікування на огляд",module,Magento_Review
 "All Reviews of Customer `%1`","All Reviews of Customer `%1`",module,Magento_Review
 "All Reviews of Product `%1`","All Reviews of Product `%1`",module,Magento_Review
 "All Reviews","Усі відгуки",module,Magento_Review
@@ -10277,7 +10277,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Store: %1 <br/>","Store: %1 <br/>",module,Magento_Review
 "Click <a href=""%1"">here</a> to see the review.","Click <a href=""%1"">here</a> to see the review.",module,Magento_Review
 "Product: ""%1"" reviewed by: %2","Product: ""%1"" reviewed by: %2",module,Magento_Review
-"Pending Reviews RSS","Pending Reviews RSS",module,Magento_Review
+"Pending Reviews RSS","Очікування на огляд RSS",module,Magento_Review
 "Reviews %1","Reviews %1",module,Magento_Review
 "Reviews","Відгуки",module,Magento_Review
 "The review has been deleted.","The review has been deleted.",module,Magento_Review
@@ -10344,8 +10344,8 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Product Review (submitted on %1):","Product Review (submitted on %1):",module,Magento_Review
 "Back to Product Reviews","Back to Product Reviews",module,Magento_Review
 "Please select one of each of the ratings above.","Будь ласка, виберіть один з рейтингів вище.",module,Magento_Review
-"By Customers","By Customers",module,Magento_Review
-"By Products","By Products",module,Magento_Review
+"By Customers","Від клієнтів",module,Magento_Review
+"By Products","По товарам",module,Magento_Review
 "Enabled","Enabled",module,Magento_Review
 "Allow Guests to Write Reviews","Allow Guests to Write Reviews",module,Magento_Review
 "Active","Активний",module,Magento_Review
@@ -10955,7 +10955,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Billing Address","Платіжна Адреса",module,Magento_Sales
 "Payment Method","Спосіб оплати",module,Magento_Sales
 "Order Comment","Order Comment",module,Magento_Sales
-"Coupons","Coupons",module,Magento_Sales
+"Coupons","Купони",module,Magento_Sales
 "Please select a customer","Please select a customer",module,Magento_Sales
 "Create New Customer","Create New Customer",module,Magento_Sales
 "Account Information","Інформація про обліковий запис",module,Magento_Sales
@@ -11091,8 +11091,8 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Information","Інформація",module,Magento_Sales
 "Order Information","Відомості про замовлення",module,Magento_Sales
 "Order Invoices","Order Invoices",module,Magento_Sales
-"Shipments","Shipments",module,Magento_Sales
-"Order Shipments","Order Shipments",module,Magento_Sales
+"Shipments","Методи доставки",module,Magento_Sales
+"Order Shipments","Методи доставки заказу",module,Magento_Sales
 "Transactions","Платіжні операції",module,Magento_Sales
 "Order View","Order View",module,Magento_Sales
 "Any","Будь-який",module,Magento_Sales
@@ -11767,7 +11767,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "PDF Invoices","PDF Invoices",module,Magento_Sales
 "PDF Shipments","PDF Shipments",module,Magento_Sales
 "PDF Creditmemos","PDF Creditmemos",module,Magento_Sales
-"Refunds","Refunds",module,Magento_Sales
+"Refunds","Повернення коштів",module,Magento_Sales
 "Move to Archive","Move to Archive",module,Magento_SalesArchive
 "Move to Order Management","Move to Order Management",module,Magento_SalesArchive
 "We have archived the order.","We have archived the order.",module,Magento_SalesArchive
@@ -12373,7 +12373,7 @@ Usage limit enforced for logged in customers only.,module,Magento_SalesRule
 "%name,","%name,",module,Magento_SendFriend
 "%sender_name wants to share this product with you:","%sender_name wants to share this product with you:",module,Magento_SendFriend
 "Email to a Friend","Надіслати другу",module,Magento_SendFriend
-"Email Templates","Email Templates",module,Magento_SendFriend
+"Email Templates","Шаблони листів",module,Magento_SendFriend
 "Enabled","Ввімкнено",module,Magento_SendFriend
 "We strongly recommend to enable a <a href=""https://devdocs.magento.com/guides/v2.3/security/google-recaptcha.html"" target=""_blank"">CAPTCHA solution</a> alongside enabling ""Email to a Friend"" to ensure abuse of this feature does not occur.","We strongly recommend to enable a <a href=""https://devdocs.magento.com/guides/v2.3/security/google-recaptcha.html"" target=""_blank"">CAPTCHA solution</a> alongside enabling ""Email to a Friend"" to ensure abuse of this feature does not occur.",module,Magento_SendFriend
 "Select Email Template","Select Email Template",module,Magento_SendFriend
@@ -13439,7 +13439,7 @@ We back our approvals with 100% chargeback protection, reimbursing you the full 
 "Tax","Податок",module,Magento_Tax
 "Manage Tax Rates","Manage Tax Rates",module,Magento_Tax
 "New Tax Rate","New Tax Rate",module,Magento_Tax
-"Tax Zones and Rates","Tax Zones and Rates",module,Magento_Tax
+"Tax Zones and Rates","Податкові зони та ставки",module,Magento_Tax
 "We can't delete this tax rate right now.","We can't delete this tax rate right now.",module,Magento_Tax
 "An error occurred while loading this tax rate.","An error occurred while loading this tax rate.",module,Magento_Tax
 "We can't save this rate right now.","We can't save this rate right now.",module,Magento_Tax
@@ -13448,7 +13448,7 @@ We back our approvals with 100% chargeback protection, reimbursing you the full 
 "Something went wrong deleting this rate.","Something went wrong deleting this rate.",module,Magento_Tax
 "Edit Tax Rate","Edit Tax Rate",module,Magento_Tax
 "You saved the tax rate.","You saved the tax rate.",module,Magento_Tax
-"Tax Rules","Tax Rules",module,Magento_Tax
+"Tax Rules","Правила оподаткування",module,Magento_Tax
 "An error occurred while loading tax rates.","An error occurred while loading tax rates.",module,Magento_Tax
 "The tax rule has been deleted.","The tax rule has been deleted.",module,Magento_Tax
 "This rule no longer exists.","Це правило більше не існує.",module,Magento_Tax
@@ -13531,7 +13531,7 @@ We back our approvals with 100% chargeback protection, reimbursing you the full 
 "Grand Total Excl. Tax","Grand Total Excl. Tax",module,Magento_Tax
 "Grand Total Incl. Tax","Grand Total Incl. Tax",module,Magento_Tax
 "Not yet calculated","Ще не підраховано",module,Magento_Tax
-"Taxes","Taxes",module,Magento_Tax
+"Taxes","Податки",module,Magento_Tax
 "Tax Section","Tax Section",module,Magento_Tax
 "Tax Classes","Tax Classes",module,Magento_Tax
 "Tax Class for Shipping","Tax Class for Shipping",module,Magento_Tax
@@ -13582,7 +13582,7 @@ We back our approvals with 100% chargeback protection, reimbursing you the full 
 "Zip/Post is Range","Zip/Post is Range",module,Magento_TaxImportExport
 "Range From","Range From",module,Magento_TaxImportExport
 "Range To","Range To",module,Magento_TaxImportExport
-"Tax Zones and Rates","Tax Zones and Rates",module,Magento_TaxImportExport
+"Tax Zones and Rates","Податкові зони та ставки",module,Magento_TaxImportExport
 "Import and Export Tax Rates","Import and Export Tax Rates",module,Magento_TaxImportExport
 "The tax rate has been imported.","The tax rate has been imported.",module,Magento_TaxImportExport
 "Invalid file upload attempt","Invalid file upload attempt",module,Magento_TaxImportExport
@@ -13592,7 +13592,7 @@ We back our approvals with 100% chargeback protection, reimbursing you the full 
 "Import Tax Rates","Import Tax Rates",module,Magento_TaxImportExport
 "Export Tax Rates","Export Tax Rates",module,Magento_TaxImportExport
 "Please select a file to import!","Please select a file to import!",module,Magento_TaxImportExport
-"Import/Export Tax Rates","Import/Export Tax Rates",module,Magento_TaxImportExport
+"Import/Export Tax Rates","Ставки податку на імпорт/експорт",module,Magento_TaxImportExport
 "CSV","CSV",module,Magento_TaxImportExport
 "Excel XML","Excel XML",module,Magento_TaxImportExport
 "Back","Назад",module,Magento_Theme
@@ -13600,12 +13600,12 @@ We back our approvals with 100% chargeback protection, reimbursing you the full 
 "Save Configuration","Зберегти конфігурацію",module,Magento_Theme
 "%1","%1",module,Magento_Theme
 "Default","За промовчанням",module,Magento_Theme
-"Themes","Themes",module,Magento_Theme
+"Themes","Теми",module,Magento_Theme
 "Save and Continue Edit","Зберегти та Продовжити Редагування",module,Magento_Theme
 "Are you sure you want to delete this theme?","Are you sure you want to delete this theme?",module,Magento_Theme
-"Theme: %1","Theme: %1",module,Magento_Theme
-"New Theme","New Theme",module,Magento_Theme
-"Theme CSS","Theme CSS",module,Magento_Theme
+"Theme: %1","Тема: %1",module,Magento_Theme
+"New Theme","Нова тема",module,Magento_Theme
+"Theme CSS","Тема CSS",module,Magento_Theme
 "Theme CSS Assets","Theme CSS Assets",module,Magento_Theme
 "Custom CSS","Custom CSS",module,Magento_Theme
 "Select CSS File to Upload","Select CSS File to Upload",module,Magento_Theme
@@ -13856,7 +13856,7 @@ We back our approvals with 100% chargeback protection, reimbursing you the full 
 "Save Edits","Save Edits",module,Magento_Ui
 "Save","Save",module,Magento_Ui
 "Record contains unsaved changes.","Record contains unsaved changes.",module,Magento_Ui
-"Export","Export",module,Magento_Ui
+"Export","Експорт",module,Magento_Ui
 "Active filters\\:","Active filters\\:",module,Magento_Ui
 "Remove","Remove",module,Magento_Ui
 "Clear all","Clear all",module,Magento_Ui
@@ -14201,7 +14201,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Create URL Rewrite","Create URL Rewrite",module,Magento_UrlRewrite
 "You deleted the URL rewrite.","You deleted the URL rewrite.",module,Magento_UrlRewrite
 "We can't delete URL Rewrite right now.","We can't delete URL Rewrite right now.",module,Magento_UrlRewrite
-"URL Rewrites","URL Rewrites",module,Magento_UrlRewrite
+"URL Rewrites","Перезапис URL-адрес",module,Magento_UrlRewrite
 "Please correct the data sent.","Please correct the data sent.",module,Magento_UrlRewrite
 "Something went wrong while saving the url rewrite.","Something went wrong while saving the url rewrite.",module,Magento_UrlRewrite
 "A total of %1 record(s) have been deleted.","A total of %1 record(s) have been deleted.",module,Magento_UrlRewrite
@@ -14287,10 +14287,10 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Please correct this email address:","Please correct this email address:",module,Magento_User
 "Please enter an email address.","Будь ласка, введіть адресу електронної пошти.",module,Magento_User
 "You updated your password.","You updated your password.",module,Magento_User
-"Locked Users","Locked Users",module,Magento_User
+"Locked Users","Заблоковані користувачі",module,Magento_User
 "Unlocked %1 user(s).","Unlocked %1 user(s).",module,Magento_User
 "System","Система",module,Magento_User
-"Permissions","Permissions",module,Magento_User
+"Permissions","Дозволи",module,Magento_User
 "You cannot delete your own account.","You cannot delete your own account.",module,Magento_User
 "The password entered for the current user is invalid. Verify the password and try again.","The password entered for the current user is invalid. Verify the password and try again.",module,Magento_User
 "You deleted the user.","You deleted the user.",module,Magento_User
@@ -14361,8 +14361,8 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Thank you,","Thank you,",module,Magento_User
 "New %changes for %user_name","New %changes for %user_name",module,Magento_User
 "We have received a request to change the following information associated with your account at %store_name: %changes.","We have received a request to change the following information associated with your account at %store_name: %changes.",module,Magento_User
-"All Users","All Users",module,Magento_User
-"User Roles","User Roles",module,Magento_User
+"All Users","Усі користувачі",module,Magento_User
+"User Roles","Ролі користувачів",module,Magento_User
 "User Notification Template","User Notification Template",module,Magento_User
 "Email template chosen based on theme fallback when ""Default"" option is selected.","Шаблон електронного листа обрано на основі теми відступання, коли опція ""За замовчуванням"" обрана.",module,Magento_User
 "New User Notification Template","New User Notification Template",module,Magento_User
@@ -14516,7 +14516,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Debug","Відладка",module,Magento_Usps
 "Show Method if Not Applicable","Show Method if Not Applicable",module,Magento_Usps
 "Sort Order","Порядок Сортування",module,Magento_Usps
-"Custom Variables","Custom Variables",module,Magento_Variable
+"Custom Variables","Користувальницькі змінні",module,Magento_Variable
 "Add New Variable","Add New Variable",module,Magento_Variable
 "Save and Continue Edit","Зберегти та Продовжити Редагування",module,Magento_Variable
 "Custom Variable ""%1""","Custom Variable ""%1""",module,Magento_Variable
@@ -14905,7 +14905,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Please specify a correct widget.","Please specify a correct widget.",module,Magento_Widget
 "The widget instance has been deleted.","The widget instance has been deleted.",module,Magento_Widget
 "New Widget","New Widget",module,Magento_Widget
-"Widgets","Widgets",module,Magento_Widget
+"Widgets","Віджети",module,Magento_Widget
 "No widget instance IDs were provided to be deleted.","No widget instance IDs were provided to be deleted.",module,Magento_Widget
 "A total of %1 record(s) have been deleted.","A total of %1 record(s) have been deleted.",module,Magento_Widget
 "Widget(s) with ID(s) %1 were not found","Widget(s) with ID(s) %1 were not found",module,Magento_Widget
@@ -15318,3 +15318,16 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "custom.definition","custom.definition",lib,web
 "component.behaviours","component.behaviours",lib,web
 "Search","Пошук",module,Mageplaza_Shopbybrand
+"Manage Posts","Керування публікаціями",module,Mageplaza_Blog
+"Manage Tags","Керування тегами",module,Mageplaza_Blog
+"Manage Topics","Керування темами",module,Mageplaza_Blog
+"Manage Authors","Керування авторами",module,Mageplaza_Blog
+"Manage Comments","Керування коментаріями",module,Mageplaza_Blog
+"Yotpo Analytics","Аналітика Yotpo",module,Yotpo_Yotpo
+"Importer Status","Статус імпортера",module,Dotdigitalgroup_Email
+"Automation Enrollment","Автоматизація реєстрації",module,Dotdigitalgroup_Email
+"Campaign Sends","Надсилання компанії",module,Dotdigitalgroup_Email
+"SMS Sends","Надсилання SMS",module,Dotdigitalgroup_Email
+"Cron Tasks","Завдання по крону",module,Dotdigitalgroup_Email
+"Log Viewer","Переглядач журналу",module,Dotdigitalgroup_Email
+"Abandoned Carts","Покинуті кошики",module,Dotdigitalgroup_Email
