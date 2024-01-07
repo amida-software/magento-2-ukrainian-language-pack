@@ -273,7 +273,7 @@ Please select a website for this product in ""Product in Websites"".",module,Mag
 "API","API",module,Magento_Analytics
 "Configuration","Налаштування",module,Magento_Analytics
 "Business Intelligence","Бізнес-аналітика",module,Magento_Analytics
-"BI Essentials","Основи BI,module,Magento_Analytics
+"BI Essentials","Основи BI",module,Magento_Analytics
 "This service provides a dynamic suite of reports with rich insights about your business.,module,Magento_Analytics
 Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the,module,Magento_Analytics
 ""Go to Advanced Reporting"" link. </br> For more information, see our <a target=""_blank"" href=""https://magento.com/legal/terms/cloud-terms"">,module,Magento_Analytics
@@ -10008,7 +10008,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Abandoned Carts","Покинуті кошики",module,Magento_Reports
 "Customer Shopping Carts","Customer Shopping Carts",module,Magento_Reports
 "Products in Carts","Products in Carts",module,Magento_Reports
-"Statistics","Statistics",module,Magento_Reports
+"Statistics","Статистика",module,Magento_Reports
 "No report code is specified.","No report code is specified.",module,Magento_Reports
 "You refreshed lifetime statistics.","You refreshed lifetime statistics.",module,Magento_Reports
 "We can't refresh lifetime statistics.","Ми не можемо оновити статистику тривалості.",module,Magento_Reports
@@ -10937,7 +10937,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Unknown condition operator","Unknown condition operator",module,Magento_Rule
 "There is no information about associated entity type ""%1"".","There is no information about associated entity type ""%1"".",module,Magento_Rule
 "This won't take long . . .","This won't take long . . .",module,Magento_Rule
-"Credit Memos","Credit Memos",module,Magento_Sales
+"Credit Memos","Кредитові записки",module,Magento_Sales
 "Orders","Замовлення",module,Magento_Sales
 "Invoices","Рахунки",module,Magento_Sales
 "We can't get the order instance right now.","We can't get the order instance right now.",module,Magento_Sales
@@ -11772,7 +11772,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Move to Order Management","Move to Order Management",module,Magento_SalesArchive
 "We have archived the order.","We have archived the order.",module,Magento_SalesArchive
 "Please specify the order ID to be archived.","Please specify the order ID to be archived.",module,Magento_SalesArchive
-"Credit Memos","Credit Memos",module,Magento_SalesArchive
+"Credit Memos","Кредитові записки",module,Magento_SalesArchive
 "Invoices","Рахунки",module,Magento_SalesArchive
 "We archived %1 order(s).","We archived %1 order(s).",module,Magento_SalesArchive
 "We can't archive the selected order(s).","We can't archive the selected order(s).",module,Magento_SalesArchive
@@ -11780,7 +11780,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Orders","Замовлення",module,Magento_SalesArchive
 "We have removed the order from the archive.","We have removed the order from the archive.",module,Magento_SalesArchive
 "Please specify the order ID to be removed from archive.","Please specify the order ID to be removed from archive.",module,Magento_SalesArchive
-"Shipments","Shipments",module,Magento_SalesArchive
+"Shipments","Методи доставки",module,Magento_SalesArchive
 "There are %1 orders in this archive. All of them will be moved to the regular table after the archive is disabled.","There are %1 orders in this archive. All of them will be moved to the regular table after the archive is disabled.",module,Magento_SalesArchive
 "Archive","Archive",module,Magento_SalesArchive
 "Restore from Archive","Restore from Archive",module,Magento_SalesArchive
@@ -11844,7 +11844,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Go to Archive","Go to Archive",module,Magento_SalesArchive
 "The ""%1"" product is not part of the current creditmemo.","The ""%1"" product is not part of the current creditmemo.",module,Magento_SalesInventory
 "The return to stock argument contains product item that is not part of the original order.","The return to stock argument contains product item that is not part of the original order.",module,Magento_SalesInventory
-"Cart Price Rules","Cart Price Rules",module,Magento_SalesRule
+"Cart Price Rules","Правила ціноутворення в кошику",module,Magento_SalesRule
 "Add New Rule","Додати нове правило",module,Magento_SalesRule
 "Delete","Видалити",module,Magento_SalesRule
 "Are you sure you want to delete this?","Are you sure you want to delete this?",module,Magento_SalesRule
@@ -12071,7 +12071,7 @@ Usage limit enforced for logged in customers only.,module,Magento_SalesRule
 "20","20",module,Magento_SalesRuleStaging
 "Start Time","Час початку",module,Magento_SalesRuleStaging
 "End Time","Час завершення",module,Magento_SalesRuleStaging
-"Cart Price Rules","Cart Price Rules",module,Magento_SalesRuleStaging
+"Cart Price Rules","Правила ціноутворення в кошику",module,Magento_SalesRuleStaging
 "The entity sequence profile wasn't added to the meta active profile. Verify the profile and try again.","The entity sequence profile wasn't added to the meta active profile. Verify the profile and try again.",module,Magento_SalesSequence
 "Not enough arguments","Not enough arguments",module,Magento_SalesSequence
 "File not found","File not found",module,Magento_SampleData
@@ -12595,7 +12595,7 @@ configuring in shared catalogs will not be restricted to customers.",module,Mage
 "Cannot add new comment.","Cannot add new comment.",module,Magento_Shipping
 "Please specify a carrier.","Please specify a carrier.",module,Magento_Shipping
 "Please enter a tracking number.","Please enter a tracking number.",module,Magento_Shipping
-"Shipments","Shipments",module,Magento_Shipping
+"Shipments","Методи доставки",module,Magento_Shipping
 "We can't initialize shipment for adding tracking number.","We can't initialize shipment for adding tracking number.",module,Magento_Shipping
 "Cannot add tracking number.","Cannot add tracking number.",module,Magento_Shipping
 "You created the shipping label.","You created the shipping label.",module,Magento_Shipping
