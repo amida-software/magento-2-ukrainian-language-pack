@@ -474,7 +474,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Deselect all","Скасувати виділення",module,Magento_B2b
 "Cancel","Скасувати",module,Magento_B2b
 "Done","Готово",module,Magento_B2b
-"We couldn't find any records.","We couldn't find any records.",module,Magento_B2b
+"We couldn't find any records.",Ми не змогли знайти жодного запису.",module,Magento_B2b
 "Show","Show",module,Magento_B2b
 "per page","per page",module,Magento_B2b
 "Please Select","Виберіть, будь ласка",module,Magento_B2b
@@ -4205,7 +4205,7 @@ Maximum 255 characters are allowed.,module,Magento_CompanyCredit
 "Done","Готово",module,Magento_ConfigurableProduct
 "Choose a new product to delete and replace the current product configuration.","Choose a new product to delete and replace the current product configuration.",module,Magento_ConfigurableProduct
 "For better results, add attributes and attribute values to your products.","For better results, add attributes and attribute values to your products.",module,Magento_ConfigurableProduct
-"Configurable products allow customers to choose options (Ex: shirt color). You need to create a simple product for each configuration (Ex: a product for each color).","Configurable products allow customers to choose options (Ex: shirt color). You need to create a simple product for each configuration (Ex: a product for each color).",module,Magento_ConfigurableProduct
+"Configurable products allow customers to choose options (Ex: shirt color). You need to create a simple product for each configuration (Ex: a product for each color).","Настраиваемые продукты позволяют клиентам выбирать варианты (например, цвет рубашки). Вам необходимо создать простой продукт для каждой конфигурации (например: продукт для каждого цвета).",module,Magento_ConfigurableProduct
 "Configurations cannot be created for a standard product with downloadable files. To create configurations, first remove all downloadable files.","Configurations cannot be created for a standard product with downloadable files. To create configurations, first remove all downloadable files.",module,Magento_ConfigurableProduct
 "Add Products Manually","Add Products Manually",module,Magento_ConfigurableProduct
 "Create Configurations","Create Configurations",module,Magento_ConfigurableProduct
@@ -5689,7 +5689,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "More than one node matching the query: %1","More than one node matching the query: %1",module,Magento_Doc
 "Invalid XML in file %1:\n%2","Invalid XML in file %1:\n%2",module,Magento_Doc
 "Invalid Document \n%1","Invalid Document \n%1",module,Magento_Doc
-"Downloadable Information","Downloadable Information",module,Magento_Downloadable
+"Downloadable Information","Інформація для завантаження",module,Magento_Downloadable
 "Add New Link","Add New Link",module,Magento_Downloadable
 "Upload Files","Upload Files",module,Magento_Downloadable
 "All Files","Всі файли",module,Magento_Downloadable
@@ -5748,8 +5748,8 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "inline","inline",module,Magento_Downloadable
 "Pending","Pending",module,Magento_Downloadable
 "Invoiced","Виставлено рахунок",module,Magento_Downloadable
-"To enable the option set the weight to no","To enable the option set the weight to no",module,Magento_Downloadable
-"Is this downloadable Product?","Is this downloadable Product?",module,Magento_Downloadable
+"To enable the option set the weight to no","Щоб увімкнути опцію, встановіть вагу на ні",module,Magento_Downloadable
+"Is this downloadable Product?","Цей продукт можна завантажити?",module,Magento_Downloadable
 "Links","Посилання",module,Magento_Downloadable
 "Title","Назва",module,Magento_Downloadable
 "Links can be purchased separately","Links can be purchased separately",module,Magento_Downloadable
@@ -6485,7 +6485,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "Message","Повідомлення",module,Magento_GiftMessage
 "Cancel","Скасувати",module,Magento_GiftMessage
 "OK","ОК",module,Magento_GiftMessage
-"Gift Options","Gift Options",module,Magento_GiftMessage
+"Gift Options","Варіанти подарунків",module,Magento_GiftMessage
 "Gift Message","Подарункове повідомлення",module,Magento_GiftMessage
 "Do you have any gift items in your order?","Do you have any gift items in your order?",module,Magento_GiftMessage
 "Add Gift Options","Add Gift Options",module,Magento_GiftMessage
@@ -6503,7 +6503,7 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "From:","Від:",module,Magento_GiftMessage
 "Message:","Повідомлення:",module,Magento_GiftMessage
 "Update","Оновити",module,Magento_GiftMessage
-"Gift options","Gift options",module,Magento_GiftMessage
+"Gift options","Варіанти подарунків",module,Magento_GiftMessage
 "Edit","Редагувати",module,Magento_GiftMessage
 "Delete","Видалити",module,Magento_GiftMessage
 "Allow Gift Messages on Order Level","Allow Gift Messages on Order Level",module,Magento_GiftMessage
@@ -11524,7 +11524,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "To:","До:",module,Magento_Sales
 "Message:","Повідомлення:",module,Magento_Sales
 "Shipping &amp; Handling","Доставка та оброблення",module,Magento_Sales
-"Gift Options","Gift Options",module,Magento_Sales
+"Gift Options","Варіанти подарунків",module,Magento_Sales
 "Create Shipment","Create Shipment",module,Magento_Sales
 "Invoice and shipment types do not match for some items on this order. You can create a shipment only after creating the invoice.","Invoice and shipment types do not match for some items on this order. You can create a shipment only after creating the invoice.",module,Magento_Sales
 "%1","%1",module,Magento_Sales
@@ -12943,7 +12943,7 @@ We back our approvals with 100% chargeback protection, reimbursing you the full 
 "Scheduled Changes","Заплановані зміни",module,Magento_Staging
 "Select","Select",module,Magento_Staging
 "Selected","Selected",module,Magento_Staging
-"We couldn't find any records.","We couldn't find any records.",module,Magento_Staging
+"We couldn't find any records.",Ми не змогли знайти жодного запису.",module,Magento_Staging
 "Start","Початок",module,Magento_Staging
 "End","Закінчення",module,Magento_Staging
 "Selected Update\:","Selected Update\:",module,Magento_Staging
@@ -13863,7 +13863,7 @@ We back our approvals with 100% chargeback protection, reimbursing you the full 
 "Filters","Filters",module,Magento_Ui
 "Advanced filter","Advanced filter",module,Magento_Ui
 "Apply Filters","Apply Filters",module,Magento_Ui
-"We couldn't find any records.","We couldn't find any records.",module,Magento_Ui
+"We couldn't find any records.",Ми не змогли знайти жодного запису.",module,Magento_Ui
 "records found","знайдено записи",module,Magento_Ui
 "selected","вибрано",module,Magento_Ui
 "of","з",module,Magento_Ui
