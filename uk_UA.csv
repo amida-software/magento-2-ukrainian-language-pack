@@ -734,7 +734,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Copyright &copy; %1 Magento Commerce Inc. All rights reserved.","Авторське право &copy; %1 Magento Commerce Inc. Всі права захищені.",module,Magento_Backend
 "ver. %1","ver. %1",module,Magento_Backend
 "Magento Admin Panel","Панель Адміністрування Magento",module,Magento_Backend
-"Account Setting","Нашалштування Облікового Запису",module,Magento_Backend
+"Account Setting","Налаштування облікового запису",module,Magento_Backend
 "Customer View","Очима Покупця",module,Magento_Backend
 "Sign Out","Вийти",module,Magento_Backend
 "About the calendar","Про календар",module,Magento_Backend
@@ -9992,7 +9992,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Customers Report","Customers Report",module,Magento_Reports
 "Customer Reviews Report","Customer Reviews Report",module,Magento_Reports
 "Product Reviews Report","Product Reviews Report",module,Magento_Reports
-"Product Reviews","Product Reviews",module,Magento_Reports
+"Product Reviews","Огляди товару",module,Magento_Reports
 "Details","Подробиці",module,Magento_Reports
 "Sales","Продажі",module,Magento_Reports
 "Bestsellers Report","Bestsellers Report",module,Magento_Reports
@@ -10269,7 +10269,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Is Active","Is Active",module,Magento_Review
 "Sort Order","Порядок Сортування",module,Magento_Review
 "Rating Information","Rating Information",module,Magento_Review
-"Product Reviews","Product Reviews",module,Magento_Review
+"Product Reviews","Огляди товару",module,Magento_Review
 "Pending product review(s)","Pending product review(s)",module,Magento_Review
 "Product: <a href=""%1"" target=""_blank"">%2</a> <br/>","Product: <a href=""%1"" target=""_blank"">%2</a> <br/>",module,Magento_Review
 "Summary of review: %1 <br/>","Summary of review: %1 <br/>",module,Magento_Review
