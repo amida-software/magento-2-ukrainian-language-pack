@@ -4205,7 +4205,7 @@ Maximum 255 characters are allowed.,module,Magento_CompanyCredit
 "Done","Готово",module,Magento_ConfigurableProduct
 "Choose a new product to delete and replace the current product configuration.","Choose a new product to delete and replace the current product configuration.",module,Magento_ConfigurableProduct
 "For better results, add attributes and attribute values to your products.","For better results, add attributes and attribute values to your products.",module,Magento_ConfigurableProduct
-"Configurable products allow customers to choose options (Ex: shirt color). You need to create a simple product for each configuration (Ex: a product for each color).","Настраиваемые продукты позволяют клиентам выбирать варианты (например, цвет рубашки). Вам необходимо создать простой продукт для каждой конфигурации (например: продукт для каждого цвета).",module,Magento_ConfigurableProduct
+"Configurable products allow customers to choose options (Ex: shirt color). You need to create a simple product for each configuration (Ex: a product for each color).","Продукти, що настроюються, дозволяють клієнтам вибирати варіанти (наприклад, колір сорочки). Вам потрібно створити простий продукт для кожної конфігурації (наприклад, для кожного кольору).",module,Magento_ConfigurableProduct
 "Configurations cannot be created for a standard product with downloadable files. To create configurations, first remove all downloadable files.","Configurations cannot be created for a standard product with downloadable files. To create configurations, first remove all downloadable files.",module,Magento_ConfigurableProduct
 "Add Products Manually","Add Products Manually",module,Magento_ConfigurableProduct
 "Create Configurations","Create Configurations",module,Magento_ConfigurableProduct
@@ -9561,7 +9561,7 @@ or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" 
 "Autostart base video","Autostart base video",module,Magento_ProductVideo
 "Show related video","Show related video",module,Magento_ProductVideo
 "Auto restart video","Auto restart video",module,Magento_ProductVideo
-"Images And Videos","Images And Videos",module,Magento_ProductVideo
+"Images And Videos","Зображення та відео",module,Magento_ProductVideo
 "Images And Videos","Зображення та відео",module,Magento_ProductVideoStaging
 "Edit Catalog Price Rules","Редагувати правила цін каталогу",module,Magento_PromotionPermissions
 "Edit Cart Price Rules","Edit Cart Price Rules",module,Magento_PromotionPermissions
@@ -11855,7 +11855,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Apply the rule only to cart items matching the following conditions (leave blank for all items).","Apply the rule only to cart items matching the following conditions (leave blank for all items).",module,Magento_SalesRule
 "Apply To","Apply To",module,Magento_SalesRule
 "Conditions","Умови",module,Magento_SalesRule
-"Apply the rule only if the following conditions are met (leave blank for all products).","Apply the rule only if the following conditions are met (leave blank for all products).",module,Magento_SalesRule
+"Apply the rule only if the following conditions are met (leave blank for all products).","Застосовуйте правило, лише якщо виконуються наступні умови (залиште порожнім для всіх продуктів)",module,Magento_SalesRule
 "Manage Coupon Codes","Manage Coupon Codes",module,Magento_SalesRule
 "Coupon Qty","Coupon Qty",module,Magento_SalesRule
 "Code Length","Code Length",module,Magento_SalesRule
@@ -15331,3 +15331,4 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Cron Tasks","Завдання по крону",module,Dotdigitalgroup_Email
 "Log Viewer","Переглядач журналу",module,Dotdigitalgroup_Email
 "Abandoned Carts","Покинуті кошики",module,Dotdigitalgroup_Email
+"If %1 of these conditions are %2:","Якщо %1 з цих умов %2:",module,Magento_Rule
