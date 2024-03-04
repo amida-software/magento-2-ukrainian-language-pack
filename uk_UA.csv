@@ -482,7 +482,6 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Search by keyword","Search by keyword",module,Magento_B2b
 "This is a required field.","This is a required field.",module,Magento_B2b
 "B2B Features","B2B можливості",module,Magento_B2b
-"Invalid Form Key. Please refresh the page.","Недійсний Ключ Форми. Будь-ласка, оновіть сторінку.",module,Magento_Backend
 "You entered an invalid Secret Key. Please refresh the page.","Ви ввели недійсний Секретний Ключ. Будь-ласка, оновіть сторінку.",module,Magento_Backend
 "Invalid security or form key. Please refresh the page.","Invalid security or form key. Please refresh the page.",module,Magento_Backend
 "Cache Storage Management","Управління Сховищем Кешу",module,Magento_Backend
@@ -3754,7 +3753,7 @@ for the following reason:",module,Magento_Company
 "Sorry! You cannot delete this user: The user is the company admin.","Sorry! You cannot delete this user: The user is the company admin.",module,Magento_Company
 "Cannot Delete the Company Admin","Cannot Delete the Company Admin",module,Magento_Company
 "Done","Готово",module,Magento_Company
-"No results","No results",module,Magento_Company
+"No results","Нічого не знайдено",module,Magento_Company
 "options","опції",module,Magento_Company
 "Proceed","Proceed",module,Magento_Company
 "Change Company Status?","Change Company Status?",module,Magento_Company
@@ -4570,7 +4569,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "This email does not require confirmation.","This email does not require confirmation.",module,Magento_Customer
 "Wrong email.","Wrong email.",module,Magento_Customer
 "Your password reset link has expired.","Your password reset link has expired.",module,Magento_Customer
-"Invalid Form Key. Please refresh the page.","Invalid Form Key. Please refresh the page.",module,Magento_Customer
+"Invalid Form Key. Please refresh the page.","Недійсний ключ форми. Оновіть сторінку",module,Magento_Customer
 "We can't save the customer.","We can't save the customer.",module,Magento_Customer
 "Please make sure your passwords match.","Переконайтеся, що ваші паролі співпадають.",module,Magento_Customer
 "If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your shipping address for proper VAT calculation.","If you are a registered VAT customer, please <a href=""%1"">click here</a> to enter your shipping address for proper VAT calculation.",module,Magento_Customer
@@ -7371,7 +7370,6 @@ Email template chosen based on theme fallback when ""Default"" option is selecte
 "We can't save this customer.","We can't save this customer.",module,Magento_Invitation
 "Page not found.","Сторінка не знайдена.",module,Magento_Invitation
 "My Invitations","My Invitations",module,Magento_Invitation
-"Invalid Form Key. Please refresh the page.","Недійсний Ключ Форми. Будь-ласка, оновіть сторінку.",module,Magento_Invitation
 "You sent the invitation for %1.","You sent the invitation for %1.",module,Magento_Invitation
 "Something went wrong while sending an email to %1.","Something went wrong while sending an email to %1.",module,Magento_Invitation
 "We did not send %1 invitation(s) addressed to current customers.","We did not send %1 invitation(s) addressed to current customers.",module,Magento_Invitation
