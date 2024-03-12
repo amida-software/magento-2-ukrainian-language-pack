@@ -1078,7 +1078,7 @@ href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essential
 "Dynamic Block Default Content for All Store Views","Динамічний блок типовий вміст для всіх вітрин",module,Magento_Banner
 "Store View Specific Content","Вміст певного виду крамниці",module,Magento_Banner
 "Use Default","Використовувати типовий",module,Magento_Banner
-"Related Promotions","Споріднені заохочення",module,Magento_Banner
+"Related Promotions","Споріднені акції",module,Magento_Banner
 "ID","Ідентифікатор",module,Magento_Banner
 "Rule","Правило",module,Magento_Banner
 "Start Date","Дата початку",module,Magento_Banner
@@ -2684,7 +2684,7 @@ Time in seconds between the widget updates.,module,Magento_Catalog
 "Attribute Set","Набір атрибутів",module,Magento_CatalogRule
 "SKU","Артикул",module,Magento_CatalogRule
 "Product","Продукт",module,Magento_CatalogRule
-"Promotions","Заохочення",module,Magento_CatalogRule
+"Promotions","Акції",module,Magento_CatalogRule
 "We found updated rules that are not applied. Please click ""Apply Rules"" to update your catalog.","Ми знайшли оновлені правила, що не застосовуються. Будь ласка, натисніть ""Застосувати правила"" для оновлення каталогу.",module,Magento_CatalogRule
 "We can't apply the rules.","Ми не можемо застосовувати правила.",module,Magento_CatalogRule
 "You deleted the rule.","Ви видалили правило.",module,Magento_CatalogRule
@@ -11882,7 +11882,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Status","Статус",module,Magento_SalesRule
 "%1 - Discounts and Coupons","%1 - Discounts and Coupons",module,Magento_SalesRule
 "Coupons/Discounts","Купони/Знижки",module,Magento_SalesRule
-"Promotions","Заохочення",module,Magento_SalesRule
+"Promotions","Акції",module,Magento_SalesRule
 "You deleted the rule.","Ви видалили правило.",module,Magento_SalesRule
 "We can't delete the rule right now. Please review the log and try again.","We can't delete the rule right now. Please review the log and try again.",module,Magento_SalesRule
 "We can't find a rule to delete.","Ми не можемо знайти правило для видалення.",module,Magento_SalesRule
