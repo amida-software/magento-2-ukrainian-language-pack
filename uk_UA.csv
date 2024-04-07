@@ -2587,7 +2587,7 @@ Time in seconds between the widget updates.,module,Magento_Catalog
 "The fewest you may purchase is %1.","Ви можете придбати щонайменше %1.",module,Magento_CatalogInventory
 "Please correct the quantity for some products.","Будь ласка, виправте кількості деяких товарів.",module,Magento_CatalogInventory
 "The most you may purchase is %1.","Ви можете придбати щонайбільше %1.",module,Magento_CatalogInventory
-"The requested qty is not available","The requested qty is not available",module,Magento_CatalogInventory
+"The requested qty is not available","Ця кількість товару не доступна",module,Magento_CatalogInventory
 "We don't have as many ""%1"" as you requested, but we'll back order the remaining %2.","В нас немає стільки ""%1"", як ви запросили, проте ми додамо до відкладеного замовлення решту %2.",module,Magento_CatalogInventory
 "We don't have ""%1"" in the requested quantity, so we'll back order the remaining %2.","В нас немає ""%1"" у кількості, яку ви запросили, тож ми додамо до відкладеного замовлення решту %2.",module,Magento_CatalogInventory
 "You can buy %1 only in quantities of %2 at a time.","Ви можете придбати %1 тільки в кількостях %2 за раз.",module,Magento_CatalogInventory
@@ -10127,7 +10127,7 @@ target=""_blank"">DevDocs' Release Information</a>.,module,Magento_ReleaseNotifi
 "Product %1 has been added to the requisition list %2.","Product %1 has been added to the requisition list %2.",module,Magento_RequisitionList
 "Options were updated. Please review available configurations.","Options were updated. Please review available configurations.",module,Magento_RequisitionList
 "The SKU is out of stock.","The SKU is out of stock.",module,Magento_RequisitionList
-"The requested qty is not available","The requested qty is not available",module,Magento_RequisitionList
+"The requested qty is not available","Ця кількість товару не доступна",module,Magento_RequisitionList
 "Could not save Requisition List. Maximum number of requisition lists was exceeded.","Could not save Requisition List. Maximum number of requisition lists was exceeded.",module,Magento_RequisitionList
 "Could not save requisition list. Invalid data provided","Could not save requisition list. Invalid data provided",module,Magento_RequisitionList
 "Exception","Exception",module,Magento_RequisitionList
