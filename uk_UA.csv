@@ -3622,7 +3622,7 @@ See Magento documentation for more information,module,Magento_CmsStaging
 "Role Name 15","Role Name 15",module,Magento_Company
 "Edit","Редагувати",module,Magento_Company
 "Delete","Видалити",module,Magento_Company
-"Duplicate","Duplicate",module,Magento_Company
+"Duplicate","Дублювати",module,Magento_Company
 "Company Name","Company Name",module,Magento_Company
 "Customer Type:","Customer Type:",module,Magento_Company
 "Company:","Company:",module,Magento_Company
@@ -12396,7 +12396,7 @@ Usage limit enforced for logged in customers only.,module,Magento_SalesRule
 "Back","Назад",module,Magento_SharedCatalog
 "Delete","Видалити",module,Magento_SharedCatalog
 "This action cannot be undone. Are you sure you want to delete this catalog?","This action cannot be undone. Are you sure you want to delete this catalog?",module,Magento_SharedCatalog
-"Duplicate","Duplicate",module,Magento_SharedCatalog
+"Duplicate","Дублювати",module,Magento_SharedCatalog
 "Linked Products","Linked Products",module,Magento_SharedCatalog
 "Reset","Очистити",module,Magento_SharedCatalog
 "Save","Зберегти",module,Magento_SharedCatalog
