@@ -4741,7 +4741,7 @@ You need to create a simple product for each configuration (Ex: a product for ea
 "Validator Exception","Validator Exception",module,Magento_Customer
 "Localized Exception","Localized Exception",module,Magento_Customer
 "some error","деяка помилка",module,Magento_Customer
-"Street","Street",module,Magento_Customer
+"Street","Вулиця",module,Magento_Customer
 "frontend_label","frontend_label",module,Magento_Customer
 "NOT LOGGED IN","NOT LOGGED IN",module,Magento_Customer
 "Please enter the state/province.","Please enter the state/province.",module,Magento_Customer
@@ -14450,7 +14450,7 @@ formElements/*[name(.)=../../@formElement]/settings/title,module,Magento_Ui
 "Priority Mail International Large Video Flat Rate priced box","Priority Mail International Large Video Flat Rate priced box",module,Magento_Usps
 "Priority Mail Express International Padded Flat Rate Envelope","Priority Mail Express International Padded Flat Rate Envelope",module,Magento_Usps
 "Letter","Letter",module,Magento_Usps
-"Flat","Flat",module,Magento_Usps
+"Flat","Квартира",module,Magento_Usps
 "Parcel","Parcel",module,Magento_Usps
 "Variable","Variable",module,Magento_Usps
 "Small Flat-Rate Box","Small Flat-Rate Box",module,Magento_Usps
